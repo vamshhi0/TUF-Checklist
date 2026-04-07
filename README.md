@@ -97,7 +97,7 @@ Click the **Fork** button (top-right)
 ```bash
 git clone https://github.com/Vamshi0chowdary/dsa-checklist.git
 cd dsa-checklist
-
+```
 
 3️⃣ Run Locally
 
