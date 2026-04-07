@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TUF+ DSA Checklist</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo-block">
+        <span class="logo-badge">TUF+</span>
+        <div>
+          <h1>DSA Checklist</h1>
+          <p class="tagline">takeUforward · Master Every Pattern</p>
+        </div>
+      </div>
+      <div class="header-stats">
+        <div class="stat-pill" id="stat-completed">
+          <span class="stat-num" id="count-done">0</span>
+          <span class="stat-label">Done</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-num" id="count-total">0</span>
+          <span class="stat-label">Total</span>
+        </div>
+        <div class="stat-pill accent" id="stat-revisit">
+          <span class="stat-num" id="count-revisit">0</span>
+          <span class="stat-label">Revisit</span>
+        </div>
+      </div>
+    </div>
+    <div class="progress-bar-wrap">
+      <div class="progress-bar" id="global-progress"></div>
+      <span class="progress-pct" id="progress-pct">0%</span>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg>
+      <input type="text" id="search-input" placeholder="Search problems..." autocomplete="off" />
+    </div>
+    <div class="filter-group">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="pending">Pending</button>
+      <button class="filter-btn" data-filter="completed">Completed</button>
+      <button class="filter-btn" data-filter="revisit">Revisit</button>
+    </div>
+    <button class="reset-btn" id="reset-btn" title="Reset all progress">
+      <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+      Reset
+    </button>
+  </div>
+
+  <main id="main-content"></main>
+
+  <footer>
+    <p>Built for <strong>takeUforward</strong> · TUF+ DSA Checklist · Progress saved locally</p>
+  </footer>
+
+  <div id="toast" class="toast"></div>
+  <script src="script.js"></script>
+</body>
+</html>
