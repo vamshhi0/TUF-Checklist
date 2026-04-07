@@ -81,98 +81,111 @@ A **minimal, powerful, and distraction-free system** that helps you:
 ## 🚀 Live Demo  
 
 👉 **Try it here:**  
-https://dsa-checklist.vercel.app *(update if needed)*
+https://dsa-checklist.vercel.app *(update if needed)*  
 
 ---
 
-## 🚀 Quick Start  
+## 🚀 Usage  
 
-### 1️⃣ Fork the Repository  
-Click the **Fork** button (top-right)
+- Open `index.html` in your browser to start tracking  
+- Mark completed problems  
+- Track your progress topic-wise  
+- Stay consistent daily  
 
 ---
 
-### 2️⃣ Clone the Repository  
+## 🌐 Deployment  
 
-```bash
-git clone https://github.com/Vamshi0chowdary/dsa-checklist.git
-cd dsa-checklist
-```
+- Go to https://vercel.com/  
+- Import your forked repository  
+- Click **Deploy**  
 
-3️⃣ Run Locally
+🚀 Your tracker will be live in seconds.
 
-Simply open:
+---
 
-index.html
-4️⃣ Deploy on Vercel
-Go to https://vercel.com/
-Import your forked repository
-Click Deploy
+## 📸 Preview  
 
-🚀 Your tracker is live in seconds.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=DSA+Tracker+Preview" alt="preview"/>
+</p>
 
-📸 Preview
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=DSA+Tracker+Preview" alt="preview"/> </p>
-💡 Philosophy
+---
 
-Consistency > Motivation
-Execution > Planning
-Discipline > Talent
+## 💡 Philosophy  
+
+> Consistency > Motivation  
+> Execution > Planning  
+> Discipline > Talent  
 
 This project is built on one belief:
 
-You don’t need more resources.
-You need a system that forces execution.
+> You don’t need more resources.  
+> You need a system that forces execution.
 
-🎯 Who Is This For?
-🚀 Students preparing for FAANG / Product-Based Companies
-📚 People following Striver Sheet / TUF+
-💻 Developers building strong DSA foundations
-🔥 Anyone serious about cracking coding interviews
-🔥 Roadmap (Future Enhancements)
- User Authentication
- Cloud Sync (Save Progress Online)
- Leaderboard / Gamification
- Notes Section per Problem
- Dark Mode Toggle
- Analytics Dashboard
-🤝 Contributing
+---
+
+## 🎯 Who Is This For?  
+
+- 🚀 Students preparing for **FAANG / Product-Based Companies**  
+- 📚 People following **Striver Sheet / TUF+**  
+- 💻 Developers building strong DSA foundations  
+- 🔥 Anyone serious about cracking coding interviews  
+
+---
+
+## 🔥 Roadmap (Future Enhancements)  
+
+- [ ] User Authentication  
+- [ ] Cloud Sync (Save Progress Online)  
+- [ ] Leaderboard / Gamification  
+- [ ] Notes Section per Problem  
+- [ ] Dark Mode Toggle  
+- [ ] Analytics Dashboard  
+
+---
+
+## 🤝 Contributing  
 
 Contributions are welcome!
 
-You can:
+### You can:
+- Improve UI/UX  
+- Add new problem sets  
+- Optimize performance  
+- Fix bugs  
 
-Improve UI/UX
-Add new problem sets
-Optimize performance
-Fix bugs
-Steps:
-Fork the repo
-Create a new branch
-Make your changes
-Submit a PR
-⭐ Support
+### Steps:
+1. Fork the repository  
+2. Create a new branch  
+3. Make your changes  
+4. Submit a PR  
+
+---
+
+## ⭐ Support  
 
 If this project helped you:
 
-⭐ Star the repository
-🔁 Share with your friends
-🚀 Use it daily and stay consistent
-🧑‍💻 Author
+- ⭐ Star the repository  
+- 🔁 Share with your friends  
+- 🚀 Use it daily and stay consistent  
 
-Vamshi Krishna
+---
 
-Building systems that build discipline.
+## 🧑‍💻 Author  
 
-⚡ Final Note
+**Vamshi Krishna**  
 
-This is not just another project.
-This is your execution system.
+> Building systems that build discipline.
 
-No shortcuts. No excuses.
+---
 
-Just consistency. Just growth. 🔥
+## ⚡ Final Note  
 
+This is not just another project.  
+This is your **execution system**.  
 
+No shortcuts. No excuses.  
 
-
+> Just consistency. Just growth. 🔥
