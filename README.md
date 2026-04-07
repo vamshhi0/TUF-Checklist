@@ -14,6 +14,14 @@
 
 ---
 
+## 📸 Preview  
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1OhC8gzKDW4nDgVWnMl2cioo2EytZpEVB" alt="TUF+ Sheet"/>
+</p>
+
+---
+
 ## 🧠 Overview  
 
 A **production-ready DSA tracking system** built to eliminate outdated preparation methods and replace them with a **structured, digital, and execution-driven workflow**.
@@ -78,13 +86,6 @@ A **minimal, powerful, and distraction-free system** that helps you:
 
 ---
 
-## 🚀 Live Demo  
-
-👉 **Try it here:**  
-https://dsa-checklist.vercel.app *(update if needed)*  
-
----
-
 ## 🚀 Usage  
 
 - Open `index.html` in your browser to start tracking  
@@ -101,14 +102,6 @@ https://dsa-checklist.vercel.app *(update if needed)*
 - Click **Deploy**  
 
 🚀 Your tracker will be live in seconds.
-
----
-
-## 📸 Preview  
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1OhC8gzKDW4nDgVWnMl2cioo2EytZpEVB" alt="TUF+ Sheet"/>
-</p>
 
 ---
 
