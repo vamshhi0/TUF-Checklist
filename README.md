@@ -107,7 +107,7 @@ https://dsa-checklist.vercel.app *(update if needed)*
 ## 📸 Preview  
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=DSA+Tracker+Preview" alt="preview"/>
+  <img src="https://drive.google.com/file/d/1OhC8gzKDW4nDgVWnMl2cioo2EytZpEVB/view?usp=drive_link" alt="TUF+ Sheet"/>
 </p>
 
 ---
